@@ -1,18 +1,4 @@
-//////////////// WALKING SIMS ////////////////////////////////////////////////
-//
-// Title: GUI that generates a walking simulation
-// Course: CS 300 Fall 2024
-//
-// Author: (SANIYA GOYAL)
-// Email: (sagoyal@wisc.edu)
-// Lecturer: (Blerina Gkotse)
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons: TA Aditya Kolsur for debugging keypressed and gradescope naming errors
-//
-//
-///////////////////////////////////////////////////////////////////////////////
+
 import java.io.File;
 import java.util.Random;
 import processing.core.PImage;
